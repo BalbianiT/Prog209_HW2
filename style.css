@@ -1,0 +1,44 @@
+#First
+{
+  background-image: linear-gradient(lightgoldenrodyellow, rgb(152, 251, 226));
+  border-radius: 25px;
+}
+#Second
+{
+  background-image: linear-gradient(rgb(152, 251, 226), lightgoldenrodyellow);
+  border-radius: 25px
+}
+#start
+{
+  border-radius: 12px;
+  padding: 5px 12px;
+  background-color: lightgoldenrodyellow;
+  border: 2px solid rgb(152, 251, 226);
+}
+#start:hover
+{
+  background-color: rgb(238, 238, 197)
+}
+#swap
+{
+  border-radius: 12px;
+  padding: 5px 12px;
+  background-color:rgb(152, 251, 226);
+  border: 2px solid lightgoldenrodyellow;
+}
+#swap:hover
+{
+  background-color: rgb(140, 231, 208);
+}
+#EnterWord
+{
+  text-align: center;
+}
+#SwapLetters
+{
+  text-align: center;
+}
+h1
+{
+  text-align: center;
+}
